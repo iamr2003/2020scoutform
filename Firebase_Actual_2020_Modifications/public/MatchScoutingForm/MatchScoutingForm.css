@@ -1,0 +1,36 @@
+html, body {
+    background-color: black;
+    font-size: 1em;
+    color: white;
+}
+
+h1 {
+    color: white;
+    background-color: #9b0000;
+    font-family: 'Cantarell', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+	background-color: #9b0000;
+	font-family: 'Cantarell', sans-serif;
+    text-align: center;
+}
+.startingPositionsImg {
+    width: 100%;
+    height: auto;
+}
+
+.btn-lg{
+    background-color:#9b0000 !important;
+    border-color: #9b0000 !important;
+}
+
+.regular-checkbox:checked, .regular-checkbox:checked:hover {
+    background-color: #39c;
+    color: #fff !important;
+}
+
+
+
